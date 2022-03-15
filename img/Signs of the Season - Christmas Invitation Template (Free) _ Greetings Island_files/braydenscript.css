@@ -1,0 +1,7 @@
+﻿
+@font-face {
+    font-family: 'Brayden Script';  
+    src: url('BraydenScript.woff') format('woff'),url('BraydenScript.woff2') format('woff2'), url('BraydenScript.ttf') format('truetype') ;
+    font-weight: normal;
+    font-style: normal;
+}

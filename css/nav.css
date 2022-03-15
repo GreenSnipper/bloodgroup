@@ -1,0 +1,29 @@
+* {
+  box-sizing: border-box;
+  padding: 0px;
+  margin: 0px;
+}
+
+@font-face {
+  font-family: 'Quicksand Light';
+  src: url('../font/BebasNeue-Regular.ttf'); 
+    
+}
+
+@font-face {
+  font-family: 'Quicksand Medium';
+  src: url('../font/Raleway-VariableFont_wght.ttf'); 
+    
+}
+
+@font-face {
+  font-family: 'Quicksand-Regular';
+  src: url('../font/Quicksand-Regular.ttf'); 
+    
+}
+
+@font-face {
+  font-family: 'Inconsolata Regular';
+  src: url('../font/Inconsolata-Regular.ttf'); 
+    
+}
